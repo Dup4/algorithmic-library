@@ -79,6 +79,10 @@ public:
         return res;
     }
 
+    vector<int> GetU() {
+        return u;
+    }
+
 private:
     int len, l;
     vector<char> fake_s_;
