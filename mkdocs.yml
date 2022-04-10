@@ -165,4 +165,4 @@ docs_dir: docs
 nav:
   - Getting Started: index.md
   - String:
-      - Manacher: string/Manacher.md
+      - Manacher: string/manacher.md

@@ -4,6 +4,6 @@
 
 ```cpp
 ---8<--
-cpp/string/Manacher.hpp
+cpp/string/manacher.hpp
 ---8<--
 ```
