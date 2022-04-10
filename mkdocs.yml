@@ -40,7 +40,7 @@ theme:
     - search.highlight
     - search.share
     - search.suggest
-    # - toc.integrate
+    - toc.integrate
     - content.code.annotate
 
   palette:
@@ -157,10 +157,12 @@ markdown_extensions:
   - pymdownx.snippets:
       check_paths: true
       base_path:
-        - docs
+        - ./
   - pymdownx.saneheaders:
 
 docs_dir: docs
 
 nav:
   - Getting Started: index.md
+  - String:
+      - Manacher: string/Manacher.md
