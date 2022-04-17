@@ -4,6 +4,6 @@
 
 ```cpp
 ---8<--
-cpp/string/manacher.hpp
+algorithmic-library-cpp/include/algorithmic/string/manacher.h
 ---8<--
 ```
